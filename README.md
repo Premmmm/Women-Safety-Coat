@@ -12,6 +12,8 @@ to her parents.
 • Raspberry PI<br>
 • Arduino UNO/Mega<br>
 • Camera <br>
+• Copper Strips<br>
+• Supercharged Capacitor<br>
 • GPS Module<br>
 • GSM Module<br>
 • PIR sensor <br>
