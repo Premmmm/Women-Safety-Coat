@@ -32,5 +32,5 @@ to her parents.
 
 ## Prototype
 
-  <img src="https://github.com/Premmmm/Women-Safety-Coat/blob/master/WomenSafetyCoat%20Photo.jpg" height="535" width="270" />
+  <img src="https://github.com/Premmmm/Women-Safety-Coat/blob/master/WomenSafetyCoat%20Photo.jpg" height="535" width="400" />
 <br><br>
